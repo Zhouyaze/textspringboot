@@ -13,5 +13,6 @@ public class SpringbootApplication {
 
         System.out.println("001");
 
+        System.out.println("001");
     }
 }
