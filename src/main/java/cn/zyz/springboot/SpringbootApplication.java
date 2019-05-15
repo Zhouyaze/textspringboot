@@ -10,6 +10,8 @@ public class SpringbootApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootApplication.class, args);
         System.out.println("周亚泽");
+        System.out.println("周亚泽02");
+
         System.out.println("springboot");
     }
 
