@@ -11,6 +11,7 @@ public class SpringbootApplication {
         SpringApplication.run(SpringbootApplication.class, args);
         System.out.println("springboot");
         System.out.println("springboot");
+        System.out.println("springboot");System.out.println("springboot");
 
 
     }
